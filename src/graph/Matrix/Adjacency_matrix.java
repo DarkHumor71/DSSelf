@@ -31,7 +31,7 @@ public class Adjacency_matrix {
 
         graph.addEdge(0, 1);
         graph.addEdge(1, 2);
-        graph.addEdge(1, 4); // I forgot this line in the video
+        graph.addEdge(1, 4);
         graph.addEdge(2, 3);
         graph.addEdge(2, 4);
         graph.addEdge(4, 0);
